@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohdalimuddin1001/leetCode/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/mohdalimuddin1001/leetCode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/mohdalimuddin1001/leetCode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
