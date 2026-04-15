@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/mohdalimuddin1001/leetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/mohdalimuddin1001/leetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/mohdalimuddin1001/leetCode/tree/master/0283-move-zeroes) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mohdalimuddin1001/leetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdalimuddin1001/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohdalimuddin1001/leetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/mohdalimuddin1001/leetCode/tree/master/0344-reverse-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mohdalimuddin1001/leetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/mohdalimuddin1001/leetCode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
